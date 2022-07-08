@@ -1,0 +1,17 @@
+body{
+    background-color: #d4eae96d;
+}
+
+#app{
+    margin: 60px auto;
+    max-width: 960px;
+}
+
+h2{
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.f-table{
+    margin-bottom: 20px;
+}
